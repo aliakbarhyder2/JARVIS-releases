@@ -2,7 +2,9 @@
 
 **Official downloads for JARVIS, the real-time voice AI assistant by Quad-A Industries.**
 
-This repository contains **compiled Windows binaries only**. Source code is proprietary and not distributed. Every file here is the exact `JARVIS.exe` built by our release CI — nothing else.
+This repository contains **compiled Windows binaries only**. Source code is proprietary and not distributed.
+
+**🌐 Website:** **https://quada-jarvis.vercel.app**
 
 ---
 
