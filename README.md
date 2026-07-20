@@ -29,8 +29,8 @@ JARVIS requires a valid `.jarvis` licence file to run. Licences are issued perso
 
 | Plan | Price | Covers |
 | --- | --- | --- |
-| **Single user** | **75,000 PKR** | 1 computer, 1 user, perpetual |
-| **Enterprise** | **300,000 PKR** | 20+ computers, perpetual |
+| **Single user - Lifetime Plan** | **75,000 PKR** | 1 computer, 1 user, perpetual |
+| **Enterprise - Lifetime Plan** | **700,000 PKR** | 20+ computers, perpetual |
 
 **To buy a licence, email:** **quada.industries@gmail.com**
 
