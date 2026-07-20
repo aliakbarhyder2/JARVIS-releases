@@ -10,7 +10,10 @@ This repository contains **compiled Windows binaries only**. Source code is prop
 
 **Latest release:** https://github.com/aliakbarhyder2/JARVIS-releases/releases/latest
 
-Grab `JARVIS.exe` from the assets on that page. That's the whole app — no Python, no dependencies, no installer wizard needed. Double-click to run.
+Two downloads are attached to every release — grab whichever you prefer:
+
+- **`JARVIS-Setup-<version>.exe`** — friendly Windows installer wizard. Double-click, click Next, get a Start Menu shortcut and (optionally) a desktop icon. Uninstallable from Add/Remove Programs. Recommended for most users.
+- **`JARVIS.exe`** — the bare app. No installation, just double-click and run. Both files contain the same JARVIS.
 
 Older builds are on the [releases page](https://github.com/aliakbarhyder2/JARVIS-releases/releases). You should always be on the latest — JARVIS auto-updates itself once installed.
 
@@ -27,10 +30,21 @@ Older builds are on the [releases page](https://github.com/aliakbarhyder2/JARVIS
 
 JARVIS requires a valid `.jarvis` licence file to run. Licences are issued personally to you by Quad-A Industries, machine-bound, and non-transferable.
 
-| Plan | Price | Covers |
-| --- | --- | --- |
-| **Single user - Lifetime Plan** | **75,000 PKR** | 1 computer, 1 user, perpetual |
-| **Enterprise - Lifetime Plan** | **700,000 PKR** | 20+ computers, perpetual |
+### Single-user plans (1 computer, 1 user)
+
+| Duration | Price |
+| --- | --- |
+| 1 week   | Contact for pricing |
+| 1 month  | Contact for pricing |
+| 1 year   | Contact for pricing |
+| **Lifetime** | **75,000 PKR** |
+
+### Enterprise plans (20+ computers)
+
+| Plan | Price |
+| --- | --- |
+| **Enterprise Lifetime** | **700,000 PKR** |
+| **Custom** (30+ computers or bespoke terms) | Contact for pricing |
 
 **To buy a licence, email:** **quada.industries@gmail.com**
 
