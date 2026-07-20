@@ -32,21 +32,26 @@ Older builds are on the [releases page](https://github.com/aliakbarhyder2/JARVIS
 
 JARVIS requires a valid `.jarvis` licence file to run. Licences are issued personally to you by Quad-A Industries, machine-bound, and non-transferable.
 
-### Single-user plans (1 computer, 1 user)
+### Personal · 1 computer
 
 | Duration | Price |
 | --- | --- |
-| 1 week   | Contact for pricing |
-| 1 month  | Contact for pricing |
-| 1 year   | Contact for pricing |
-| **Lifetime** | **75,000 PKR** |
+| 1 week   | **15,000 PKR** |
+| 1 month  | **35,000 PKR** |
+| 1 year   | **75,000 PKR** |
 
-### Enterprise plans (20+ computers)
+### Lifetime · 3 computers
 
 | Plan | Price |
 | --- | --- |
-| **Enterprise Lifetime** | **700,000 PKR** |
-| **Custom** (30+ computers or bespoke terms) | Contact for pricing |
+| **Lifetime** | **135,000 PKR** |
+
+### Enterprise · multi-computer
+
+| Plan | Computers | Price |
+| --- | --- | --- |
+| **Enterprise** | 20 – 50 | **800,000 PKR** |
+| **Custom**     | 50+     | Contact us to bargain a price |
 
 **To buy a licence, email:** **quada.industries@gmail.com**
 
