@@ -12,15 +12,21 @@ This repository contains **compiled Windows binaries only**. Source code is prop
 
 **Latest release:** https://github.com/aliakbarhyder2/JARVIS-releases/releases/latest
 
-Two downloads are attached to every release — grab whichever you prefer:
+Every release ships **four** artifacts — one per platform:
 
-- **`JARVIS-Setup-<version>.exe`** — friendly Windows installer wizard. Double-click, click Next, get a Start Menu shortcut and (optionally) a desktop icon. Uninstallable from Add/Remove Programs. Recommended for most users.
-- **`JARVIS.exe`** — the bare app. No installation, just double-click and run. Both files contain the same JARVIS.
+| Platform | File | How to install |
+| --- | --- | --- |
+| **Windows 10 / 11** | `JARVIS-Setup-<version>.exe` | Double-click, Next → Next → Install. Adds Start Menu shortcut, uninstallable from Add/Remove Programs. |
+| **Windows** (portable) | `JARVIS.exe` | Bare app. No install — double-click to run. |
+| **macOS 12+** | `JARVIS-<version>.dmg` | Open the DMG, drag `JARVIS.app` onto the `Applications` shortcut inside. |
+| **Linux** (any distro) | `JARVIS-<version>.AppImage` | `chmod +x` the file and run it. Portable, no install, no root. |
+| **Ubuntu / Debian** | `jarvis_<version>_amd64.deb` | `sudo dpkg -i jarvis_*.deb` — installs to `/opt/jarvis`, runnable as `jarvis`. |
 
-Older builds are on the [releases page](https://github.com/aliakbarhyder2/JARVIS-releases/releases). You should always be on the latest — JARVIS auto-updates itself once installed.
+Older builds are on the [releases page](https://github.com/aliakbarhyder2/JARVIS-releases/releases). You should always be on the latest — JARVIS auto-updates itself on Windows once installed (Mac/Linux auto-update is on the roadmap).
 
 **System requirements:**
-- Windows 10 or 11, 64-bit
+- Windows 10/11 · macOS 12+ · Linux with glibc 2.35+ (Ubuntu 22.04+, Fedora 36+, Arch, etc.)
+- 64-bit only
 - ~500 MB free disk space
 - Internet connection (for the Gemini Live API and updates)
 - Microphone
